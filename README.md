@@ -1,3 +1,4 @@
+![DogClaw](images/dogclaw.png)
 # 🐾 DogClaw — Unified Threat Detection & Observability Platform
 
 > **A single-machine, browser-based threat detection system that unifies observability and security data with AI-powered investigation and automated response.**
