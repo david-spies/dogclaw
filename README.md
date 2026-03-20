@@ -136,4 +136,4 @@ open http://localhost:8000
 
 ## License
 
-MIT - use it, fork it, teach with it.
+MIT - use it, fork it, deploy it.
