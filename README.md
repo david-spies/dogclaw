@@ -124,4 +124,4 @@ open http://localhost:8000
 
 ## License
 
-Apache 2.0 — see [LICENSE](LICENSE)
+MIT - use it, fork it, teach with it.
