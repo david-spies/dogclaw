@@ -10,6 +10,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-10b981?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/database-SQLite_WAL-f97316?style=flat-square&logo=sqlite&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/realtime-WebSocket-00e5ff?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-OTLP-8b5cf6?style=flat-square&logo=opentelemetry&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-CloudTrail_%7C_GuardDuty-f97316?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-monitored-3b82f6?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-monitored-3b82f6?style=flat-square&logo=docker&logoColor=white)
