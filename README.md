@@ -93,7 +93,7 @@ See [`QUICKSTART.md`](QUICKSTART.md) for full step-by-step setup including agent
 
 ```bash
 # Clone and install
-git clone https://github.com/your-org/dogclaw
+git clone https://github.com/david-spies/dogclaw
 cd dogclaw
 pip install -r requirements.txt
 
