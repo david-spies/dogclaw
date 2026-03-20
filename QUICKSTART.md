@@ -51,7 +51,7 @@ Optional but recommended for production:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/dogclaw.git
+git clone https://github.com/david-spies/dogclaw.git
 cd dogclaw
 ```
 
