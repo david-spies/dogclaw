@@ -4,7 +4,17 @@
 > **A single-machine, browser-based threat detection system that unifies observability and security data with AI-powered investigation and automated response.**
 
 ---
-
+![Version](https://img.shields.io/badge/version-2.4.1-00e5ff?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-7c3aed?style=flat-square)
+![Python](https://img.shields.io/badge/python-3.11+-3b82f6?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.111-10b981?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/database-SQLite_WAL-f97316?style=flat-square&logo=sqlite&logoColor=white)
+![WebSocket](https://img.shields.io/badge/realtime-WebSocket-00e5ff?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-CloudTrail_%7C_GuardDuty-f97316?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-monitored-3b82f6?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-monitored-3b82f6?style=flat-square&logo=docker&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Claude_%7C_GPT--4_%7C_Ollama-7c3aed?style=flat-square)
+![PRs](https://img.shields.io/badge/PR_scanning-AI--powered-7c3aed?style=flat-square)
 ## What is DogClaw?
 
 DogClaw is an open, self-hosted Security Information and Event Management (SIEM) platform combined with full-stack observability. It ingests metrics, logs, traces, and security events from your entire infrastructure — cloud, containers, serverless, databases, and IoT — and surfaces threats in real time through a unified browser interface.
